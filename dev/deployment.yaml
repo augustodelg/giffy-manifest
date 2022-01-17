@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: giffy-dev
+  name: giffy-deploy
 spec:
   selector:
     matchLabels:
